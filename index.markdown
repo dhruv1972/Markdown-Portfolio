@@ -17,7 +17,7 @@ With a keen interest in problem-solving and software architecture, I constantly 
 - **Version Control:** Git, GitHub
 - **Other Tools & Technologies:** UI/UX Design
 
-## [Projects](projects.md)
-## [Contact](contact.md)
+## [Projects](Projects.md)
+## [Contact](Contact.md)
 
 ---
